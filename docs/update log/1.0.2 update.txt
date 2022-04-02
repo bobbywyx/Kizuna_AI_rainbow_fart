@@ -1,0 +1,13 @@
+1.0.2在1.0.1原有基础上
+1.0.2 update on the basis of 1.0.1
+
+调整：
+modified:
+
+  将manifest.json中的contribution抽离出成为单独文件 
+  现在已经验证支持：
+      vscode rainbowfart、intellij-rainbow-fart、visualstudio-rainbow-fart
+
+  Detached "contribution" from manifest.json.
+  Now support: 
+      vscode rainbowfart、intellij-rainbow-fart、visualstudio-rainbow-fart

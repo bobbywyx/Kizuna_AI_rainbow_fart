@@ -1,0 +1,13 @@
+{
+    "name": "KizunaAI",
+    "display-name": "KizunaAI绊爱",
+    "avatar": "AI.jpg",
+    "avatar-dark": "blackAI.jpg",
+    "version": "1.0.2",
+    "description": "绊爱语音包",
+    "author": "Lige",
+    "gender": "AI",
+    "languages": [
+        "python"
+    ]
+}
