@@ -4,15 +4,18 @@
   <br>
 </h1>
 <p align="center">
-<strong>让超人工智能绊爱陪你写代码？好耶！</strong>
+<strong>
+<font color ="#EE4F87">
+让超人工智能绊爱陪你写代码？好耶！
+</font></strong>
 </p>
 
 <div align=center>
-<img src="/image/ai.jpg" width="65%">
+<img src="/image/ai.jpg" width="55%">
 </div>
 
 - - -
-## Summary
+### Summary
 绊爱的 彩虹屁 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) 语言包来啦！目前仅支持 `python`
 
 目前([v1.0.2](https://github.com/bobbywyx/Kizuna_AI_rainbow_fart/releases))只有34个音频，后续会慢慢更新！也会增加其他语言支持！
@@ -23,6 +26,7 @@
 *并没有黑爱的语音，此图仅为黑暗模式的示意图*
 
 ### Usage
+
 [vscode 版](https://github.com/SaekiRaku/vscode-rainbow-fart)
 在 [Releases](https://github.com/bobbywyx/Kizuna_AI_rainbow_fart/releases) 下载压缩包，在浏览器页面选择压缩包导入。或者直接解压至语音包目录。
 
@@ -38,9 +42,9 @@
 更多信息请参考各个插件仓库的说明。
 
 ### Illustration
-<iframe src="//player.bilibili.com/player.html?aid=382581294&bvid=BV1rZ4y1B73U&cid=559544326&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<img src="/image/v.jpg" width="30%" >
 
-b站播放器可能用不了，点击[链接](https://www.bilibili.com/video/BV1rZ4y1B73U)观看视频
+b站播放器用不了，点击[链接](https://www.bilibili.com/video/BV1rZ4y1B73U)观看视频
 
 ### Project Plan
 - 由于绊酱还没出来，本项目仍然使用视频中的语音，绊酱出来之后将会考虑使用绊酱生成语音
@@ -54,7 +58,7 @@ b站播放器可能用不了，点击[链接](https://www.bilibili.com/video/BV1
 
 <img src="/image/01.jpeg" width="25%">
 
-### Auther
+### Author
 [lige](https://space.bilibili.com/11064433)
 
 ### Copyright
