@@ -49,7 +49,7 @@ b站播放器用不了，点击[链接](https://www.bilibili.com/video/BV1rZ4y1B
 ### Project Plan
 - 由于绊酱还没出来，本项目仍然使用视频中的语音，绊酱出来之后将会考虑使用绊酱生成语音
 ~~当然本人技术力不够可能做不来TT~~
-- 接下来会添加`C` `Cpp` `C#` `JS` `Java`等语言支持~~（不确定要鸽多久）~~
+- 接下来会添加`C` `Cpp` `C#` `JS` `Java`等语言支持 ~~（不确定要鸽多久）~~ (Java已经在做了！)
 - 台词表已经放在[/docs/voices.csv](/docs/voices.csv)中，感兴趣的小伙伴可以帮忙收集语音或者提供idea
 - 升级版：会考虑做一个更智能的彩虹屁插件，比如非固定触发而是智能识别语境，联动绊爱桌宠啊之类的，当然这涉及到底层重写，所以短期内没办法实现，有合作意愿或者希望提供idea亦或一起contribute的小伙伴可以联系我
 ### Acknowledge
@@ -57,9 +57,11 @@ b站播放器用不了，点击[链接](https://www.bilibili.com/video/BV1rZ4y1B
 感谢[【B站AIChannel后援会】](https://space.bilibili.com/1885440915)给予支持和宣传，大家快来关注后援会啊！
 
 <img src="/image/01.jpeg" width="25%">
+<img src="/image/logo.jpg" width="25%">
+
 
 ### Author
-[lige](https://space.bilibili.com/11064433)
+[lige](https://space.bilibili.com/11064433)(click to see bilibili profile)
 
 ### Copyright
 ©︎Kizuna AI
